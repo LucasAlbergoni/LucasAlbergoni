@@ -19,8 +19,8 @@
 - Enhancing proficiency in Kotlin and Swift.
 
 ## Get in Touch
-- LinkedIn: [Lucas Profile]([https://www.linkedin.com/in/lucas](https://www.linkedin.com/in/lucasalbergoni/))
+- LinkedIn: [in/lucasalbergoni](https://www.linkedin.com/in/lucas](https://www.linkedin.com/in/lucasalbergoni/)
 - Email: lucas.albergoni@gmail.com
-- Site: https://lucasalbergoni.github.io/
+- Site: [lucasalbergoni.github.io](https://lucasalbergoni.github.io/) 
 Feel free to reach out if you have any questions or just want to chat! 😊
 
